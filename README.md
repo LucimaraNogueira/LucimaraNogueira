@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucimara Nogueira de Albuquerque
 
-**`Analista de Teste e Qualidade de Software`**
+**`Analista de Teste e Qualidade de Software 🐞`**
 
 Olá, me chamo Lucimara Nogueira, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio conciliando com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Descomplica Faculdade Digital. Sou apaixonada por tecnologia e agora me aperfeiçoando na área de QA com foco em testes manuais e automação, atuando na validação de aplicações web e APIs. Experiência prática com testes E2E, testes de API e testes de performance, com integração em pipelines de CI/CD. Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis.
 
