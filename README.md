@@ -2,7 +2,7 @@
 
 **`Analista de Teste e Qualidade de Software`**
 
-Olá, me chamo Lucimara Nogueira, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio conciliando com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Descomplica Faculdade Digital. Sou apaixonada por tecnologia e agora me aperfeiçoando na area de QA com foco em testes manuais e automação, atuando na validação de aplicações web e APIs. Experiência prática com testes E2E, testes de API e testes de performance, com integração em pipelines de CI/CD. Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis.
+Olá, me chamo Lucimara Nogueira, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio conciliando com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Descomplica Faculdade Digital. Sou apaixonada por tecnologia e agora me aperfeiçoando na área de QA com foco em testes manuais e automação, atuando na validação de aplicações web e APIs. Experiência prática com testes E2E, testes de API e testes de performance, com integração em pipelines de CI/CD. Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis.
 
 <div> 
   <a href = "mailto:lucimaranogueira084@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
