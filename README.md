@@ -2,9 +2,9 @@
 
 **`Analista de Teste e Qualidade de Software 🐞`**
 
-Olá, me chamo Lucimara Nogueira, tenho 25 anos e sou natural de São PauloApaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
+Olá, me chamo Lucimara Nogueira, tenho 25 anos e sou natural de São Paulo Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
-Minha trajetória na computação começou com a formação como Técnica em Informática pela ETEC, onde consolidei minha base em lógica e programação. Atualmente, sou graduanda em Engenharia de Software e agora me aperfeiçoando em Cloud Computing: AWS para construir soluções escaláveis e de alta disponibilidade.☁️ Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis.
+Minha trajetória na computação começou com a formação como Técnica em Informática pela ETEC, onde consolidei minha base em lógica e programação. Atualmente, sou graduanda em Engenharia de Software e agora me aperfeiçoando em Cloud Computing: AWS para construir soluções escaláveis e de alta disponibilidade. Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis. ☁️ 
 
 <div> 
   <a href = "mailto:lucimaranogueira084@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
