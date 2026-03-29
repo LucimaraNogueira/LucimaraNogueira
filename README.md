@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucimara Nogueira de Albuquerque
 
-**`Analista de Teste e Qualidade de Software 🐞`**
+**`Software Engneer `**
 
 Olá, me chamo Lucimara Nogueira, tenho 25 anos e sou natural de São Paulo Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
