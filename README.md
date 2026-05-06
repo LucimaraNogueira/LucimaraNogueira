@@ -2,7 +2,7 @@
 
 **`Software Engneer `**
 
-Olá, me chamo Lucimara Albuquerque, tenho 25 anos e sou natural de São Paulo. Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
+Olá, me chamo Lucimara Albuquerque, tenho 26 anos e sou natural de São Paulo. Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
 Minha trajetória na tecnologia começou com a formação como Técnica em Informática pela ETEC, onde consolidei minha base em lógica e programação. Atualmente, sou graduanda em Engenharia de Software e agora me aperfeiçoando em Cloud Computing: AWS para construir soluções escaláveis e de alta disponibilidade. Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis. ☁️ 
 
