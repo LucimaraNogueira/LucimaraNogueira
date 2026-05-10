@@ -16,6 +16,7 @@ Minha trajetória na tecnologia começou com a formação como Técnica em Infor
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="Java"
@@ -42,6 +43,7 @@ Minha trajetória na tecnologia começou com a formação como Técnica em Infor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -59,8 +61,6 @@ Minha trajetória na tecnologia começou com a formação como Técnica em Infor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-          
            
 <img 
     align="left" 
