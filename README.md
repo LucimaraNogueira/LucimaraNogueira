@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucimara Nogueira de Albuquerque
 
-**`Software Engneer `**
+**`Software Engineer `**
 
 Olá, me chamo Lucimara Albuquerque, tenho 26 anos e sou natural de São Paulo. Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
