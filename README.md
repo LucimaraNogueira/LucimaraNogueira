@@ -1,10 +1,8 @@
-# 👩🏻‍💻 Lucimara Nogueira de Albuquerque
 
-**`Software Engineering Student `**
 <div align="center">
  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Olá, me chamo Lucimara Albuquerque! </h1>
 </div>
-Olá, me chamo Lucimara Albuquerque, tenho 26 anos e sou natural de São Paulo. Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
+ Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
 Minha trajetória na tecnologia começou com a formação como Técnica em Informática pela ETEC, onde consolidei minha base em lógica e programação. Atualmente, sou graduanda em Engenharia de Software e me especializando no ecossistema Java (Spring Boot) e na integração de soluções com Inteligência Artificial para construir soluções escaláveis e de alta disponibilidade. Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis. 
 
