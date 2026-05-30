@@ -1,7 +1,6 @@
 <div align="center">
 <img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/b40941ac-2a3a-41c8-b97a-c2e7ca31b7b0" />
-/div
-
+</div>
 
 <div align="center">
  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Olá, me chamo Lucimara Albuquerque! </h1>
