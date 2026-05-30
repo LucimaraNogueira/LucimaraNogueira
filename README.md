@@ -27,6 +27,16 @@ Minha trajetória na tecnologia começou com a formação como Técnica em Infor
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
+
+<img 
+    align="left" 
+    alt="spring"
+    title="spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+ />
+
 <img 
     align="left" 
     alt="Java"
