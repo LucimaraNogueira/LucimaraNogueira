@@ -20,6 +20,18 @@ Tenho foco na construção de **APIs REST**, modelagem e gerenciamento de **banc
 
 ---
 
+## 🚀 Atualmente
+
+🎓 Cursando Engenharia de Software
+
+☕ Foco em Desenvolvimento Backend com Java e Spring Boot
+
+☁️ Estudando AWS e Computação em Nuvem
+
+🤖 Explorando Inteligência Artificial aplicada a soluções de software
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 
