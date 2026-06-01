@@ -8,7 +8,9 @@
 
 Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
-Minha trajetória na tecnologia começou com a formação como Técnica em Informática pela ETEC, onde consolidei minha base em lógica e programação. Atualmente, curso Engenharia de Software e me especializo no **desenvolvimento Backend** com **Java e Spring Boot** e na integração de soluções com **Inteligência Artificial**, com foco em APIs REST, bancos de dados, computação em nuvem e boas práticas de engenharia de software. Meu objetivo é desenvolver soluções escaláveis, seguras e de alta qualidade, contribuindo para projetos que gerem impacto real por meio da tecnologia.
+Minha trajetória na tecnologia começou com a formação como **Técnica em Informática pela ETEC**, onde consolidei uma sólida base em lógica de programação e desenvolvimento de software. Atualmente, curso **Engenharia de Software** e me especializo no desenvolvimento **Backend com Java e Spring Boot**, além da integração de soluções com **Inteligência Artificial**.
+
+Tenho foco na construção de **APIs REST**, modelagem e gerenciamento de **bancos de dados, computação em nuvem** e aplicação de **boas práticas de engenharia de software**. Meu objetivo é desenvolver soluções escaláveis, seguras e de alta qualidade, contribuindo para projetos que gerem impacto real por meio da tecnologia.
 
 <div> 
   <a href = "mailto:lucimaranogueira084@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
