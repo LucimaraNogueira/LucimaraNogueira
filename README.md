@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Olá, me chamo Lucimara Albuquerque! </h1>
+ <h1><img src="https://github.com/user-attachments/assets/0c0233fd-227e-4d82-9d2d-5d7e15e84971""  width="50px" style="vertical-align: middle;">Olá, me chamo Lucimara Albuquerque! </h1>
 </div>
 
 Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
