@@ -6,7 +6,7 @@
  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Olá, me chamo Lucimara Albuquerque! </h1>
 </div>
 
- ## 👩‍💻 Sobre mim
+ ## 👩‍💻 Sobre Mim
 
 Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
@@ -35,7 +35,7 @@ Tenho foco na construção de **APIs REST**, modelagem e gerenciamento de **banc
 ---
 ## 📈 Objetivo
 
-Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática, contribuir com soluções eficientes e continuar evoluindo em um ambiente colaborativo e inovador. 
+Busco minha primeira oportunidade na área de desenvolvimento de software para aplicar meus conhecimentos em Java e Spring Boot, contribuir com soluções de qualidade e continuar evoluindo profissionalmente em um ambiente colaborativo e inovador.
 
 ### 🤖 Linguagens e Tecnologias
 
