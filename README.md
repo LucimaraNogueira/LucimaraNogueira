@@ -6,6 +6,8 @@
  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Olá, me chamo Lucimara Albuquerque! </h1>
 </div>
 
+ ## 👩‍💻 Sobre mim
+
 Apaixonada por tecnologia, motivada por desafios e em constante evolução. ✨
 
 Minha trajetória na tecnologia começou com a formação como **Técnica em Informática pela ETEC**, onde consolidei uma sólida base em lógica de programação e desenvolvimento de software. Atualmente, curso **Engenharia de Software** e me especializo no desenvolvimento **Backend com Java e Spring Boot**, além da integração de soluções com **Inteligência Artificial**.
@@ -31,6 +33,9 @@ Tenho foco na construção de **APIs REST**, modelagem e gerenciamento de **banc
 🤖 Explorando Inteligência Artificial aplicada a soluções de software
 
 ---
+## 📈 Objetivo
+
+Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática, contribuir com soluções eficientes e continuar evoluindo em um ambiente colaborativo e inovador. 
 
 ### 🤖 Linguagens e Tecnologias
 
