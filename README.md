@@ -35,8 +35,8 @@ Tenho foco na construção de **APIs REST**, modelagem e gerenciamento de **banc
 
 <img 
     align="left" 
-    alt="spring"
-    title="spring" 
+    alt="spring boot"
+    title="spring boot" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
@@ -53,8 +53,8 @@ Tenho foco na construção de **APIs REST**, modelagem e gerenciamento de **banc
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="aws"
+    title="aws" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
